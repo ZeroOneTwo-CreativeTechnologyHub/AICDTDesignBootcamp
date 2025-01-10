@@ -1,1 +1,0 @@
-NeoPixel Ring 24 LED Arduino Shield by enauman on Thingiverse: https://www.thingiverse.com/thing:1084592
