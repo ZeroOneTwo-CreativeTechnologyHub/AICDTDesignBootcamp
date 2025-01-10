@@ -4,7 +4,8 @@
 **Where:** Zero.One.Two Creative Technology Hub, 012, Design School, CCE2, Northumbria University \
 **When:** Thursday 23rd January 2025, 10.00 - 17.00
 
-**Schedule:**
+**Schedule:** 
+
 **10.00 - 12.00**
 - Intro to Zero.One.Two Creative Technology Hub
 - Soldering Health and Safety Induction
