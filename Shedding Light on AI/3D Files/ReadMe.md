@@ -6,7 +6,7 @@
   - File stored in [this repository](./3D_Files/NeoPixel_Ring_24_LED_Arduino_Shield) for preservation
     
 **2.** [NeoPixel Diffusers](https://www.thingiverse.com/thing:6913553) by [Clive Wright](https://www.thingiverse.com/clivewr/designs)
-- File Stored in [this repository](./3D_Files/Diffusers)
+- File Stored in [this repository](./3D_Files/Neopixel_Shield_Diffusers_-_6913553)
 
 **3.** [Arduino Uno Stand](https://www.thingiverse.com/thing:6911369/files) by [Clive Wright](https://www.thingiverse.com/clivewr/designs)
   - File stored in [this repository](./3D_Files/Arduino_Uno_Stand_-_6911369)
