@@ -10,5 +10,6 @@
 
 **3.** [Arduino Uno Stand](https://www.thingiverse.com/thing:6911369/files) by [Clive Wright](https://www.thingiverse.com/clivewr/designs)
   - File stored in [this repository](./3D_Files/Arduino_Uno_Stand_-_6911369)
-    
+
+### Assembley:
 ![AI CDT Assembley](https://github.com/user-attachments/assets/5f626d37-7b90-4a1e-953a-2ff0461e9214)
