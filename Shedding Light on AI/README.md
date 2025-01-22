@@ -26,7 +26,7 @@ Through hands-on coding and creative discussions, participants will explore the 
 - A 24-LED Neopixel ring
 - Basic electronic components (wires, breadboard)
 - Laptop with Arduino IDE installed
-- 3D Printed files
+- [3D Printed files](./Shedding_Light_on_AI/3D_Files)
 - Craft materials for diffusers or housing eg: card, acrylic, fabric, etc
 
 
