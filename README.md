@@ -17,6 +17,7 @@
 - Lunch break
 
 ##Shedding Light on AI:
+
 **an intro to coding up your own creative tech stories.**
 “I blinked at the AI and it blinked back”
  
