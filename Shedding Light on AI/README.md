@@ -26,7 +26,7 @@ Through hands-on coding and creative discussions, participants will explore the 
 - A 24-LED Neopixel ring
 - Wires
 - Laptop with [Arduino IDE installed](https://www.arduino.cc/)
-- Install Adafruit_NeoPixel Library
+- Install [Adafruit_NeoPixel Library](https://github.com/adafruit/Adafruit_NeoPixel)
 - [3D Printed files](./Shedding_Light_on_AI/3D_Files)
 - Craft materials for diffusers or housing eg: card, acrylic, fabric, etc
 
