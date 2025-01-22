@@ -28,13 +28,13 @@ Let's talk about how lights have lit up AI in films
 **13.30 - 14.00**
 Making our first neoPixel ring demo using example code
 
-**14.00 - 15.00**
+**14.00 - 14.45**
 Now let's try that ourselves with our own code
 
-**15.00 - 16.00**
+**14.45 - 15.30**
 Let's get some help from an AI
 
-**16.00 - 16.30**
+**15.30 - 16.00**
 Wrap up and reflections
 
 
