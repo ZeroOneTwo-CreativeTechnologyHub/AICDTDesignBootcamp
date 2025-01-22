@@ -24,7 +24,7 @@ Through hands-on coding and creative discussions, participants will explore the 
 ## Requirements
 - An Arduino Uno (or compatible board)
 - A 24-LED Neopixel ring
-- Basic electronic components (wires, breadboard)
+- Wires
 - Laptop with Arduino IDE installed
 - [3D Printed files](./Shedding_Light_on_AI/3D_Files)
 - Craft materials for diffusers or housing eg: card, acrylic, fabric, etc
