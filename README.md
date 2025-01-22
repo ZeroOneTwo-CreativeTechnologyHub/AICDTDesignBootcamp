@@ -16,8 +16,29 @@
 **12.00 - 13.00**
 - Lunch break
 
-**13.00 - 17.00**
-- Shedding Light on AI: An intro to coding up your own creative tech stories
+##Shedding Light on AI:##
+**an intro to coding up your own creative tech stories.**
+“I blinked at the AI and it blinked back”
+ 
+**Agenda**
+
+**13.00 - 13.30**
+Let's talk about how lights have lit up AI in films
+
+**13.30 - 14.00**
+Making our first neoPixel ring demo using example code
+
+**14.00 - 15.00**
+Now let's try that ourselves with our own code
+
+**15.00 - 16.00**
+Let's get some help from an AI
+
+**16.00 - 16.30**
+Wrap up and reflections
+
+
+
 
 
 
