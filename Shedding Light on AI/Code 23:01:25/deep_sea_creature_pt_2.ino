@@ -1,3 +1,19 @@
+//Bronte Rapps
+//
+//23.01.25
+
+/*
+Jellyfish- Blue glow
+Anglerfish - Yellow flicker
+Squid - Pink/Purple pulsing
+Octopus - Random colour shifting
+Deep-Sea Fish - Green glow
+Cuttlefish – Light blue pulsing
+ 
+This is the deep-sea colour creature wheel! These are what the colours represent, but what do they mean to you? Would you have chosen these animals or something different?
+*/
+
+
 #include <Adafruit_NeoPixel.h>
 
 #define PIN 2 // Pin for the NeoPixels
