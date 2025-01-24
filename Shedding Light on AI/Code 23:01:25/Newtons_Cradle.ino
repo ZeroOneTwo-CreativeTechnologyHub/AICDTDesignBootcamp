@@ -1,3 +1,7 @@
+//Michal Cholerzynski
+//
+//23.01.25
+
 #include <Adafruit_NeoPixel.h>
 
 #define PIN            2      // Pin to which the LED ring is connected
