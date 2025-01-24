@@ -1,3 +1,7 @@
+//Yve Smith
+//
+//23.01.25
+
 #include <Adafruit_NeoPixel.h>
 
 #define PIN            2       // Pin where NeoPixel ring is connected
