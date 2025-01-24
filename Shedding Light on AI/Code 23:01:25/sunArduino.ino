@@ -1,3 +1,14 @@
+//Chris Corner
+//
+//23.01.25
+
+/*
+The Eternal Dance of Light
+In the quiet embrace of a celestial sphere, there existed a world where the sun danced an eternal waltz with the skies. 
+This sun, a solitary beacon of golden radiance, moved with purpose—its journey carving time into the fabric of this miniature universe. 
+The NeoCircle, as the inhabitants called it, was a ring of life and colour, where each LED held a piece of the story, and the sun was its ever-watchful guardian.
+ */
+
 #include <Adafruit_NeoPixel.h>
 #ifdef __AVR__
  #include <avr/power.h> // Required for 16 MHz Adafruit Trinket
