@@ -1,3 +1,7 @@
+//Amy Mccerery
+//
+//23.01.25
+
 #include <Adafruit_NeoPixel.h>
 
 #define PIN 2            // Pin connected to the NeoPixel ring
