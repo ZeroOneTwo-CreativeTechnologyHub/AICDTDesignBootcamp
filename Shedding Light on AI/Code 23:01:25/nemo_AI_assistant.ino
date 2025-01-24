@@ -1,3 +1,7 @@
+//Grace Handley
+//
+//23.01.25
+
 #include <Adafruit_NeoPixel.h>
 
 #define LED_PIN 2         // Pin connected to NeoPixel
